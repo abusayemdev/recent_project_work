@@ -2,7 +2,7 @@
 
 ## E-commererce Website – Martfury
 
-<p>Martfury E-commerce website developed and customized by PHP, Laravel. It's a product of Botble with custom plugins and features with some custom API integration. It’s a multi-vendor e-commerce project.</p>
+<p>Martfury E-commerce website developed and customized by PHP, Laravl a product of Botble with custom plugins and features with some custom API integration. It’s a multi-vendor e-commerce project.</p>
 
 <br>
 
