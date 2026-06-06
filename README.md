@@ -50,7 +50,7 @@
 <br><br>
 
 
-## E-commererce Website – Foxic
+## E-commerce Website – Foxic
 
 <p>Foxic E-commerce website developed by PHP, Laravel in back-end development & Ajax in front-end. It’s a multi-vendor e-commerce project.</p>
 
