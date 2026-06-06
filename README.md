@@ -1,6 +1,6 @@
 # Recent Project Work:
 
-## E-commererce Website – Martfury
+## E-commerce Website – Martfury
 
 <p>Martfury E-commerce website developed and customized by PHP, Laravl a product of Botble with custom plugins and features with some custom API integration. It’s a multi-vendor e-commerce project.</p>
 
