@@ -1,4 +1,4 @@
-# Recent Project Work:
+# Recent Project Work
 
 ## E-commerce Website – Martfury
 
