@@ -1,6 +1,4 @@
-# Recent Project Work
-
-## E-commerce Website – Martfury
+## Project: E-commerce Website – Martfury
 
 <p><p>Martfury E-commerce Website developed and customized by PHP, Laravel - a product of Botble with custom plugins and features with APIs integration. It’s a multi-vendor e-commerce project.</p></p>
 
@@ -50,7 +48,7 @@
 <br><br>
 
 
-## E-commerce Website – Foxic
+## Project: E-commerce Website – Foxic
 
 <p>Foxic E-commerce Website developed by PHP, Laravel in back-end development & Bootstrap, Javascript, Ajax in front-end. It’s a multi-vendor e-commerce project.</p>
 
@@ -200,7 +198,7 @@
 
 
 
-## Business Website – Aquagreen
+## Project: Business Website – Aquagreen
 <p>Drinking mineral water and accessories supplier website - developed by PHP, Laravel, Bootstrap.</p>
 
 <br>
@@ -221,7 +219,7 @@
 
 
 
-## Enroll Course Website – Eudica
+## Project: Enroll Course Website – Eudica
 <p>Enroll course website where students can enroll courses related learning new skills and education. 
 Course instructors can upload their courses. It was developed by PHP, Laravel, MySQL, Bootstrap, Ajax, 
 Integrated API, Pusher notification and live chat. Students can get certificates on the base of course 
@@ -326,7 +324,7 @@ the courses page was developed by strong filter. Student can purchase courses th
 
 
 
-## Business Website – Pcstocks
+## Project: Business Website – Pcstocks
 <p>Computer accessories business website developed by PHP, Laravel, Bootstrap. </p>
 
 <br>
