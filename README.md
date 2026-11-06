@@ -148,7 +148,7 @@
 
 
 
-## E-commerce Website – Wolmart
+## Project: E-commerce Website – Wolmart
 <p>Wolmart E-commerce Website developed by PHP, Laravel in back-end development & Bootstrap, Javascript, Ajax in front-end. It was a multi-vendor e-commerce project. It was added several services like Pusher notification & live chat, Firebase OTP authentication and more services related transaction service.</p>
 
 <br>
