@@ -2,8 +2,6 @@
 
 Welcome to my project portfolio — a collection of web development projects across e-commerce platforms, business websites, online learning platforms, and administrative management systems.
 
-My technical experience includes PHP, Laravel, MySQL, JavaScript, AJAX, Bootstrap, and integrations with various third-party APIs and services.
-
 
 ## Project: E-commerce Website – Martfury
 
