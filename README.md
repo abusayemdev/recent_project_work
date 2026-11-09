@@ -1,8 +1,3 @@
-# Project Portfolio
-
-Welcome to my project portfolio — a collection of web development projects across e-commerce platforms, business websites, online learning platforms, and administrative management systems.
-
-
 ## Project: E-commerce Website – Martfury
 
 **Technologies:** PHP, Laravel, MySQL, Botble, Custom Plugins, API Integration
@@ -225,7 +220,7 @@ A business website developed for a drinking mineral water and accessories suppli
 <img src="image/3_01.jpg" alt="Image 1" width="100%" style="display: block; margin: auto;">
 </p>
 <p align="center">Image 1: Home Page</p>
-<br
+<br>
 
 <p align="center">
 <img src="image/3_02.jpg" alt="Image 2" width="100%" style="display: block; margin: auto;">
