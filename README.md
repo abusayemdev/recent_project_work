@@ -1,10 +1,11 @@
 ## Web Development Projects
 
- - E-commerce Platforms
- - Business and Corporate Websites
- - Online Learning Management Systems (LMS)
- - Point of Sale (POS) Systems
- - Administrative Management Systems
+ - E-commerce Website – Martfury
+ - E-commerce Website – Foxic
+ - E-commerce Website – Wolmart
+ - Business Website – Aquagreen
+ - Online Learning Platform – Eudica
+ - Business Website – Pcstocks
 
 
 ## Project: E-commerce Website – Martfury
