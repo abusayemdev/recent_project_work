@@ -222,7 +222,7 @@ The project includes additional services and integrations, such as real-time not
 
 **Technologies:** PHP, Laravel, MySQL, Bootstrap
 
-A business website developed for a drinking mineral water and accessories supplier. The website provides business-related information and product details, along with an administrative dashboard for managing website content.
+A business website developed for a mineral water and water accessories supplier. The website provides business-related information and product details, along with an administrative dashboard for managing website content.
 
 <br>
 
@@ -248,7 +248,7 @@ A business website developed for a drinking mineral water and accessories suppli
 
 Eudica is an online learning platform where students can browse and purchase courses to develop new skills and gain knowledge.
 
-The platform allows instructors to upload and manage their courses. Courses are organized using categories, subcategories, and further nested categories, with advanced filtering functionality to help students find relevant courses.
+The platform allows instructors to upload and manage their courses. Courses are organized using categories, subcategories, and nested course categories, with advanced filtering functionality to help students find relevant courses.
 
 Students can purchase courses through a shopping cart system and receive certificates upon course completion.
 
