@@ -1,3 +1,12 @@
+## Web Development Projects
+
+ - E-commerce Platforms
+ - Business and Corporate Websites
+ - Online Learning Management Systems (LMS)
+ - Point of Sale (POS) Systems
+ - Administrative Management Systems
+
+
 ## Project: E-commerce Website – Martfury
 
 **Technologies:** PHP, Laravel, MySQL, Botble, Custom Plugins, API Integration
