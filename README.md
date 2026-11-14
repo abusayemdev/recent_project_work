@@ -1,4 +1,6 @@
-# Web Development Projects
+## Web Development Projects
+
+Business and Corporate Websites, E-commerce Platforms, Online Learning Management Systems (LMS), Point of Sale (POS) Systems, and Administrative Management Systems.
 
 ## Project: E-commerce Website – Martfury
 
