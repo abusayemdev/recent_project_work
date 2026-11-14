@@ -1,13 +1,5 @@
 ## Web Development Projects
 
- - E-commerce Website – Martfury
- - E-commerce Website – Foxic
- - E-commerce Website – Wolmart
- - Business Website – Aquagreen
- - Online Learning Platform – Eudica
- - Business Website – Pcstocks
-
-
 ## Project: E-commerce Website – Martfury
 
 **Technologies:** PHP, Laravel, MySQL, Botble, Custom Plugins, API Integration
